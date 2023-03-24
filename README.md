@@ -3,3 +3,4 @@
 Modifica per testare git gui
 
 Modifica in test branch
+modifica dopo reset

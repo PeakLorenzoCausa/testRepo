@@ -1,0 +1,3 @@
+[submodule "testRepoSubmodule"]
+	path = testRepoSubmodule
+	url = https://github.com/PeakLorenzoCausa/testRepoSubmodule

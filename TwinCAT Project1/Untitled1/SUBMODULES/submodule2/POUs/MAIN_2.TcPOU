@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.9">
+  <POU Name="MAIN_2" Id="{c42b9b1e-d303-4193-95be-85832af438f4}" SpecialFunc="None">
+    <Declaration><![CDATA[PROGRAM MAIN_2
+VAR
+	counter_2:INT:=0;
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[counter_2:=counter_2+1;]]></ST>
+    </Implementation>
+  </POU>
+</TcPlcObject>
